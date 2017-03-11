@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Beyond Words Speech-Language Consultants</title>
+    <link>https://beyond-words.github.io/index.xml</link>
+    <description>Recent content on Beyond Words Speech-Language Consultants</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Copyright (c) 2017 Beyond Words Speech-Language Consultants</copyright>
+    <atom:link href="https://beyond-words.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>https://beyond-words.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyond-words.github.io/about/</guid>
+      <description>&lt;!DOCTYPE html&gt;
+&lt;html lang=&#34;en&#34;&gt;
+
+  {{ partial &#34;head.html&#34; . }}
+
+  &lt;body&gt;
+
+    &lt;div id=&#34;all&#34;&gt;
+
+        &lt;header&gt;
+
+          {{ partial &#34;nav.html&#34; . }}
+
+        &lt;/header&gt;
+
+        &lt;div id=&#34;heading-breadcrumbs&#34;&gt;
+        &lt;div class=&#34;container&#34;&gt;
+          &lt;div class=&#34;row&#34;&gt;
+            &lt;div class=&#34;col-md-12&#34;&gt;
+                &lt;h1&gt;About Our Team&lt;/h1&gt;
+            &lt;/div&gt;
+          &lt;/div&gt;
+      &lt;/div&gt;
+    &lt;/div&gt;
+
+        &lt;div id=&#34;content&#34;&gt;
+           {{ partial &#34;team.html&#34; . }}
+
+        &lt;/div&gt;
+        &lt;!-- /#content --&gt;
+
+        {{ partial &#34;footer.html&#34; . }}
+
+    &lt;/div&gt;
+    &lt;!-- /#all --&gt;
+
+    {{ partial &#34;scripts.html&#34; . }}
+
+  &lt;/body&gt;
+&lt;/html&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Cari Thiele</title>
+      <link>https://beyond-words.github.io/bio/cari/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyond-words.github.io/bio/cari/</guid>
+      <description>&lt;p&gt;Cari has experience with clients preschool-aged through adult.  She has a keen interest in phonological delays, apraxia (motor speech disorders), in fluency (stuttering), early literacy, language development, and accent modification.
+&lt;br /&gt;
+&lt;br /&gt;
+Cari loves being a speech-language pathologist because of the relationships that are built with clients and families, and the enjoyment that comes from helping individuals communicate more effectively.  Helping clients meet their speech-language goals is always rewarding!
+&lt;br /&gt;
+&lt;br /&gt;
+Cari has a Bachelor of Education from the University of Regina, and a Master of Science in Speech-Language Pathology from the University of Alberta.  She is registered with the Saskatchewan Association of Speech-Language Pathologists and Audiologists (SASLPA), and is certified with Speech-Language and Audiology Canada.
+&lt;br /&gt;
+&lt;br /&gt;
+Cari is a certified provider of:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;The Lidcombe program for preschool fluency intervention&lt;/li&gt;
+&lt;li&gt;Hanen, It Takes Two to Talk, a program to teach parents optimal strategies for fostering language development.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://beyond-words.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyond-words.github.io/contact/</guid>
+      <description>
+
+&lt;h1 id=&#34;we-are-here-to-help-you&#34;&gt;We are here to help you&lt;/h1&gt;
+
+&lt;p&gt;If you have any questions or concerns, please don&amp;rsquo;t hesitate to contact us.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Frequently Asked Questions</title>
+      <link>https://beyond-words.github.io/faq/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyond-words.github.io/faq/</guid>
+      <description>
+
+&lt;p&gt;&lt;br /&gt;
+Here are some questions that our clients often have. If you have further questions, please feel free to &lt;a href=&#34;contact&#34;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;how-do-i-know-when-to-get-help-from-a-speech-language-pathologist&#34;&gt;How do I know when to get help from a Speech-Language Pathologist?&lt;/h3&gt;
+
+&lt;p&gt;Speech-Language Canada&amp;rsquo;s website has guidelines for children and adults. These guidelines will help you determine whether you may want to seek out help.  If you are unsure, please ask us. We are happy to discuss any concern with you!&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.sac-oac.ca/sites/default/files/resources/SAC-Milestones-TriFold_EN.pdf&#34;&gt;SAC - Children&amp;rsquo;s Guidelines&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;http://www.sac-oac.ca/sites/default/files/resources/communication_health_and_aging_brochure_web_en.pdf&#34;&gt;SAC - Adult Guidelines&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&#34;is-this-covered-by-my-benefits&#34;&gt;Is this covered by my benefits?&lt;/h3&gt;
+
+&lt;p&gt;Many insurance and extended health benefit plans provide coverage for private speech-language services.  We recommend you check with your own provider for specific coverage details - it may be more than you think! We provide receipts for all our services with our Saskatchewan registration numbers printed on them to qualify for insurance reimbursement.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;do-i-need-a-referral-from-a-doctor&#34;&gt;Do I need a referral from a doctor?&lt;/h3&gt;
+
+&lt;p&gt;No, you do not need a doctor’s referral to access our services. You can self-refer for yourself or your child/dependent for private speech-language services at any time. Some benefit plans, however, may require a physician’s prescription; we recommend checking with your insurance provider for more information.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;what-are-the-costs-for-service&#34;&gt;What are the costs for service?&lt;/h3&gt;
+
+&lt;p&gt;Our rates vary depending on the type of service and the length of session required.  We aim to work both within our clients’ needs and budgets.  Please contact us, and we will be happy to discuss our rates with you.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h3 id=&#34;why-should-i-access-private-speech-language-services&#34;&gt;Why should I access private speech-language services?&lt;/h3&gt;
+
+&lt;p&gt;Families access our services for a variety of reasons.  Many families choose private services because they want to start sooner than what is available through public services, or they want more frequent or longer sessions than what is being provided publically.  Families may also access private services in the event public services are not available for the specific treatment need.&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Maegan Mason</title>
+      <link>https://beyond-words.github.io/bio/maegan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyond-words.github.io/bio/maegan/</guid>
+      <description>&lt;p&gt;Maegan completed her Bachelor of Arts degree at the University of Regina and her Masters of Science degree in Speech-Language Pathology at Minot State University. Maegan has developed her career though various opportunities in both the Health and Education sectors. As a result, Maegan possesses a diverse clinical background and enjoys working with individuals of all ages. Maegan lives in Regina with her husband and two children.
+&lt;br /&gt;
+&lt;br /&gt;
+Maegan has experience working with adults in the areas of swallowing disorders (i.e., “dysphagia”), communication rehabilitation, tracheostomy/ventilator needs, and accent modification. Maegan also has experience working with children and adolescents in the areas of speech sound production, language, and cognitive impairment. Additionally, Maegan has proficiency in many Assistive and Augmentative Communication (AAC) systems from working with clients of different ages and AAC needs. Lastly, from her time spent as an Autism Consultant, Maegan has an extensive training history and personal interest in the area of Austism Spectrum Disoders and behavioural consultation.
+&lt;br /&gt;
+&lt;br /&gt;
+Maegan is a certified group facilitator for Hanen: It Takes Two to Talk and Hanen: Learning Language and Loving It programs. Maegan is also a certified provider of the Compton Pronouncing English as a Subsequent Language accent modification program.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Miranda Miller</title>
+      <link>https://beyond-words.github.io/bio/miranda/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyond-words.github.io/bio/miranda/</guid>
+      <description>&lt;p&gt;Miranda Miller is a licensed Speech-Language Pathologist with experience working with children, youth, and adults with a variety of (dis)abilities.  She obtained her undergraduate (BA) in Psychology with a minor in Linguistics at University of Regina and completed her masters in Speech Language Pathology at Minot State University.  Additionally, Miranda is Hanen certified and trained in the Lidcombe Fluency Program.  Miranda has provided training sessions and presentations and has worked in health and education settings.  Miranda believes in the importance of using evidence based practice and has a keen interest in working with early language development, brain injury, and children who stutter.  She enjoys working with families and team members to create the best possible outcomes.  Miranda lives in Regina with her husband, son, silly french bulldog and moody cat.
+ &lt;br /&gt;
+ &lt;br /&gt;
+(&lt;em&gt;Note: Miranda is not currently accepting clients&lt;/em&gt;)&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Services</title>
+      <link>https://beyond-words.github.io/services/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyond-words.github.io/services/</guid>
+      <description>
+
+&lt;h2 id=&#34;services-for-all-ages&#34;&gt;Services for All Ages&lt;/h2&gt;
+
+&lt;p&gt;We are committed to implementing exceptional, family-centered, therapy services to meet your individual needs. We recognize each client is unique, and value partnering with our clients to develop individualized therapy programs.&lt;/p&gt;
+
+&lt;p&gt;We strive for the highest level of confidentiality, flexibility, and excellence to provide our clients with both professional and practical service.&lt;/p&gt;
+
+&lt;p&gt;We firmly believe in the profound importance of helping all individuals, regardless of age or ability, to achieve the highest level of communicative success possible.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a class=&#34;anchor&#34; id=&#34;children&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;services-for-children-adolescents&#34;&gt;Services for Children &amp;amp; Adolescents&lt;/h2&gt;
+
+&lt;p&gt;We provide assessment, treatment, and consultative services for the following areas:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Speech (articulation/phonological needs, apraxia of speech)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Language (grammar, vocabulary, concept knowledge, following directions)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Early language development for infants and toddlers&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Fluency (a.k.a. &amp;ldquo;stuttering&amp;rdquo;)&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Augmentative/alternative communication and assistive technology&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Phonological Awareness and pre-literacy skills&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Speech, language, cognitive, and/or behavioural needs of any individuals with developmental or intellectual disabilities, Autism Spectrum Disorders, Down Syndrome, Attention Deficit/Hyperactivity Disorder, Fetal Alcohol Syndrome, Cerebral Palsy, or any other.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a class=&#34;anchor&#34; id=&#34;adults&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;services-for-adults&#34;&gt;Services for Adults&lt;/h2&gt;
+
+&lt;p&gt;In addition to working with children and adolescents, we work with adults of any age to provide services including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;Communication assessment and therapy for individuals post-stroke or brain injury&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Symptoms of dementia-related illnesses such as Alzheimer&amp;rsquo;s disease&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;Accent modification services for individuals who would like to improve their Standard North American English accent. We recognize that, although an accent is in no way a &amp;ldquo;disorder,&amp;rdquo; some individuals may choose to improve their accent to improve their ability to be understood in the workplace or social situations&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a class=&#34;anchor&#34; id=&#34;training&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&#34;services-for-continuing-education-opportunities-and-seminars&#34;&gt;Services for Continuing Education Opportunities and Seminars&lt;/h2&gt;
+
+&lt;p&gt;We are also available to provide informative and instructional presentations, seminars, and/or workshops for any audience.  Please contact us if you are:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;An Early Childhood Educator (or related profession) and are interested in hosting a workshops, such as Hanen Learning Language and Loving It®&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;A teacher/administrator, community program planner, rehabilitation/assisted living coordinator, or any other individual looking for a presentation/seminar on the areas of speech, language, early language development, fluency, assistive technology, adult communication disorders, or communication and dementia.  Tell us your topic of interest and we will work with you to meet your needs!&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a class=&#34;anchor&#34; id=&#34;extra&#34;&gt;link&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Winter Bengert Siman</title>
+      <link>https://beyond-words.github.io/bio/winter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://beyond-words.github.io/bio/winter/</guid>
+      <description>&lt;p&gt;Communication has always been an area of interest for Winter. Members of her family, and she herself have benefited from the expertise of speech language pathologists at different points during their lives. Winter is a graduate of both the University of Regina and Minot State University with a Bachelor&amp;rsquo;s degree in Education and a Master’s degree in Speech Language Pathology. Winter works primarily with toddlers, pre-school children, and school age children experiencing difficulty communicating. She works with clients and their families in various settings including client’s homes, schools, and clinic settings.
+&lt;br /&gt;
+&lt;br /&gt;
+Winter is a certified group facilitator for Hanen: It Takes Two to Talk and Hanen: Learning Language and Loving It programs. These programs and the associated strategies used during individual therapy sessions are designed to give parents strategies and confidence to support their child as he/she learns to communicate during everyday interactions.
+&lt;br /&gt;
+&lt;br /&gt;
+Winter provides speech and language services in a variety of areas including:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Articulation and speech sound impairments&lt;/li&gt;
+&lt;li&gt;Receptive language impairments (the ability to understand the messages of others)&lt;/li&gt;
+&lt;li&gt;Expressive language impairments (the ability to use language to effectively communicate with others)&lt;/li&gt;
+&lt;li&gt;Phonological awareness (a pre-requisite skill for the acquisition of reading)&lt;/li&gt;
+&lt;li&gt;Fluency/stuttering&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
